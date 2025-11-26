@@ -1,5 +1,11 @@
-# TODO: Change Project Title
+# rusterm
 
-TODO: Write a short description of your project
+[![Language: Rust](https://img.shields.io/badge/language-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-> **Note:** While this project may deviate from the template, the core commit and pre-commit rules still apply. Please review the [pre-commit guidelines](./docs/pre-commit.md) before contributing.
+## description
+
+Share your terminal as a web application.
+
+## license
+
+Go to [LICENSE](./LICENSE).
